@@ -1,1 +1,1 @@
-# Chest-X-Ray-Diagnosis
+# Chest X-Ray Diagnosis
